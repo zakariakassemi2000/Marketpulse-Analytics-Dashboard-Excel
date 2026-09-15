@@ -1,4 +1,4 @@
-﻿# 📊 MarketPulse Analytics Dashboard
+# 📊 MarketPulse Analytics Dashboard
 
 > **Tableau de bord décisionnel interactif** pour l'analyse des performances commerciales, de la rentabilité, des dépenses, du comportement client et des tendances opérationnelles.
 
@@ -86,6 +86,15 @@ Le projet comprend **3 pages** de tableau de bord :
 | 📄 Page 1 | **Dashboard** | Vue d'ensemble exécutive |
 | 📄 Page 2 | **Profitabilité** | Analyse de la rentabilité |
 | 📄 Page 3 | **Opérations** | Analyse clients & opérationnelle |
+
+### 🖥️ Page I — Dashboard Principal
+![Page I - Dashboard Principal](pageI.png)
+
+### 💹 Page II — Analyse de la Profitabilité
+![Page II - Analyse de la Profitabilité](pageII.png)
+
+### ⚙️ Page III — Opérations & Clients
+![Page III - Opérations & Clients](pageIII.png)
 
 ---
 
