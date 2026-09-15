@@ -167,7 +167,7 @@ En combinant ces insights, les entreprises peuvent prendre des **décisions bas�
 
 ## 👤 Auteur
 
-**Muhammad Jan**
+**Zakaria KASSEMI**  
 *Data Analyst | Business Intelligence | Excel | Power BI | SQL | Python*
 
 ---
